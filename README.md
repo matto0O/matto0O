@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matto0O - Applied Computer Science student at Wrocław University of Science and Technology (WUST)
-- 🌱 I’m currently learning Python, Kotlin and C++.
+- 🌱 I’m currently building on my Python and Kotlin skills.
 - 💞️ I’m looking to collaborate on any begginer projects.
 - 📫 How to reach me:
       > https://www.facebook.com/matto0211
